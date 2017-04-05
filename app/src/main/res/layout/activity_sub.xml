@@ -8,7 +8,6 @@
     tools:context="com.example.android.myapplication.SubActivity">
 
     <include
-        android:id="@id/app_bar"
         layout="@layout/app_bar"/>
 
     <TextView
